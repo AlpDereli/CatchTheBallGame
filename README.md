@@ -1,7 +1,7 @@
 # CatchTheBallGame
 It is a very basic game where the player tries to catch the ball.
 
-To catch it hit space key.
+To catch it, hit the space key.
 
 It will send a dog to catch the ball so you need to time it well.
 
